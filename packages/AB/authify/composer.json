@@ -1,0 +1,11 @@
+{
+    "name": "dummy/authify",
+    "description": "this package is used for to authenticate users",
+    "authors": [
+        {
+            "name": "Abdulqader Ahmed",
+            "email": "abdulqaderahmed32@gmail.com"
+        }
+    ],
+    "require": {}
+}
